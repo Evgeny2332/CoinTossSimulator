@@ -10,7 +10,7 @@
 
 <h1 align="center">Проект разработан на основе IDeF0 диаграммы</h1>
 
-[Ссылка на диаграмму](https://clck.ru/3EQUWS)
+<a href="https://github.com/Evgeny2332/CoinTossSimulator/blob/dev/Диаграмма%20без%20названия%20(8).drawio.png">Ссылка на диаграмму</a>
 
 <h1 align="center">Инструкция по установке</h1>
 <p><strong> Перед установкой </strong></p>
